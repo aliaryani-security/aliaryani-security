@@ -18,15 +18,15 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hello there my friend</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">Who am I ?</h3>
 
 ###
 
-<p align="left">I'm Ali from Persia (AKA Iran)<br><br>Teaching is challenging,<br>Time is all that matters,<br>Coding is a heartbeat,<br>Man, I love them all!</p>
+<p align="left">What a wonderful quenstion to ask !<br><br>My name is Ali ,<br><br>I code for fun , not for money !<br><br>Here I share the tools I make , they might come in handy.</p>
 
 ###
 
@@ -48,12 +48,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=lenesis&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 ###
