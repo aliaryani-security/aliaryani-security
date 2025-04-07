@@ -1,32 +1,27 @@
 <div align="center">
-  <a href="https://x.com/oneNonlyLenesis" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://x.com/theHannibalist" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="x logo"  />
   </a>
-  <a href="https://medium.com/@lenesis" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
+  <a href="https://instagram.com/aliaryani.security" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
   <a href="https://AliAryanii.t.me" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=lenesis.lenesis&"  />
-</div>
+<h1 align="center">Hello and Welcome</h1>
 
 ###
 
-<h1 align="center">Hello there my friend</h1>
+<h3 align="left">Want to know me ?</h3>
 
 ###
 
-<h3 align="left">Who am I ?</h3>
-
-###
-
-<p align="left">What a wonderful quenstion to ask !<br><br>My name is Ali ,<br><br>I code for fun , not for money !<br><br>Here I share the tools I make , they might come in handy.</p>
+<p align="left">My name is Ali, Ali Aryani<br>amongst all the various topics that I'm interested in,<br>Cybersecurity and ethical hacking are way so dear and special to me!
+<br>Here I share the tools and code practices that I write.<br>Hope you  enjoy using them ! (for ethical and educational purposes😄)</p>
 
 ###
 
